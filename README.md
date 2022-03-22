@@ -4,7 +4,7 @@
 
 * stdin -> entrada de dados;
 
-* process.stdin.on() -> o 'on' vai fica "ouvindo" eventos;
+* process.stdin.on() -> o 'on' vai ficar "ouvindo" eventos;
 
 * "data" -> sempre que for inserido dados, ele vai rodar uma função; 
 
